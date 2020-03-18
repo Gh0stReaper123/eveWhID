@@ -1,4 +1,4 @@
-# <img src="space.png" style="zoom:25%;" /> EVE Wormhole ID
+# <img src="images/space.png" style="zoom:100%;" /> EVE Wormhole ID
 
 
 
