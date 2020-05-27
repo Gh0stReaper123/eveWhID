@@ -48,6 +48,6 @@ If you feel like improving on my (basic) work, feel free to open a pull request.
 
 ### License
 
-[GNU GPLv3](https://github.com/Gh0stReaper123/eveWhID/blob/master/LICENSE)
+[GNU GPLv3](https://github.com/Gh0stReaper123/eveWhID/blob/master/LICENSE.txt)
 
 Icon made by [Flat Icons](https://www.flaticon.com/free-icon/black-hole_1610178?term=black%20hole&page=1&position=10) 
